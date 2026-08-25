@@ -57,13 +57,13 @@ I am a constant builder who thrives in collaborative, hands-on environments. Whe
 <div align="center">
   <img src="Certificates/All Certificate-1618_page-0001.jpg" alt="CCNA Verified" width="200" />
   <img src="Certificates/Critical Thinking in the AI Era_page-0001.jpg" alt="IT Essentials Verified" width="200" />
-  <img src="Certificates/Design Thinking_page-0001.jpg" alt="UNESCO Hackathon" width="400" />
-  <img src="Certificates/Effective Leadership_page-0001.jpg" alt="Critical Thinking" width="400" />
-  <img src="Certificates/IT_Customer_Support_Basics_certificate_bakareabdulmujeeb1-gmail-com_075acb27-f1d4-4ed8-840d-430944c83b06_page-0001.jpg" alt="IT Customer Support Basics" width="400" />
+  <img src="Certificates/Design Thinking_page-0001.jpg" alt="UNESCO Hackathon" width="200" />
+  <img src="Certificates/Effective Leadership_page-0001.jpg" alt="Critical Thinking" width="200" />
+  <img src="Certificates/IT_Customer_Support_Basics_certificate_bakareabdulmujeeb1-gmail-com_075acb27-f1d4-4ed8-840d-430944c83b06_page-0001.jpg" alt="IT Customer Support Basics" width="200" />
 </div>
-<img src="Certificates/Social Entrepreneurship_page-0001.jpg" alt="IT Customer Support Basics" width="400" />
+<img src="Certificates/Social Entrepreneurship_page-0001.jpg" alt="IT Customer Support Basics" width="200" />
 </div>
-<img src="Certificates/ccna-introduction-to-networks.png" alt="IT Customer Support Basics" width="400" />
+<img src="Certificates/ccna-introduction-to-networks.png" alt="IT Customer Support Basics" width="200" />
 </div>
-<img src="Certificates/it-essentials.png" alt="IT Customer Support Basics" width="400" />
+<img src="Certificates/it-essentials.png" alt="IT Customer Support Basics" width="200" />
 </div>
