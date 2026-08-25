@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Abdulmujeeb Abiola Bakare 👋</h1>
+  <h1>Hi, I'm Abdulmujeeb Bakare 👋</h1>
   <h3>Computer Engineering Student | Software Developer</h3>
   <p>Federal University of Technology, Akure • <a href="mailto:bakareabdulmujeeb1@gmail.com">Email Me</a> • <a href="https://linkedin.com/in/abdulmujeeb-bakare">LinkedIn</a></p>
 
