@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Abdulmujeeb Abiola Bakare 👋</h1>
-  <h3>Computer Engineering Student | Full-Stack & IoT Developer</h3>
-  <p>Federal University of Technology, Akure • <a href="mailto:bakareaacpe2022@futa.edu.ng">Email Me</a> • <a href="https://linkedin.com/in/abdulmujeeb-bakare">LinkedIn</a></p>
+  <h3>Computer Engineering Student | Software Developer</h3>
+  <p>Federal University of Technology, Akure • <a href="mailto:bakareabdulmujeeb1@gmail.com">Email Me</a> • <a href="https://linkedin.com/in/abdulmujeeb-bakare">LinkedIn</a></p>
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -15,36 +15,46 @@
 ---
 
 ## 🎯 About Me
-I am a Computer Engineering undergraduate with a CGPA of 4.58/5.00[cite: 8]. Currently serving as the President of the NACES FUTA Chapter[cite: 8], I have hands-on experience spanning high-level software development, embedded systems, and network infrastructure[cite: 8]. I am highly motivated to scale my technical stack and build impactful tech solutions through the Cardtonic Upskill Scholarship track.
+I am a Computer Engineering undergraduate at the Federal University of Technology, Akure (FUTA) with a deep-rooted curiosity and a passion for building. Having worked as a teacher alongside my studies, I firmly believe that with the right approach, anyone can learn anything—a philosophy I apply to my own continuous upskilling. 
+
+My journey in tech began with an exploration of graphic design (Figma, Canva) and web design (WordPress, Framer). However, the moment I dove into software development, I knew I had found my true calling. I have since been independently mastering HTML, CSS, and JavaScript, and I am currently building dynamic interfaces with React. I don't just want to know how code works; my goal is to achieve exceptional mastery in software engineering.
+
+I am a constant builder who thrives in collaborative, hands-on environments. Whether it's to engineer a hardware century counter, an embedded digital clock, or a C++ trivia game, I naturally step up to navigate roadblocks and find solutions. After exploring various facets of technology, I have fully dedicated my career path to software development, and I am eager to leave my own footprint in the technology landscape
 
 ## 🚀 Featured Projects
 
-* **[TrustLock](https://github.com/strangerlab7/YOUR-REPO-NAME)**
-  Top 10 Finalist in Wema Bank Hackaholics 6.0 and 2nd Place at FUTA Pitch[cite: 8].
-* **[Smart Load Management System](https://github.com/strangerlab7/YOUR-REPO-NAME)**
-  Designed an Arduino-based smart load management system using a Relay Module and Current Sensor to automate electrical load switching and improve energy efficiency[cite: 7].
-* **[Enterprise Network Design](https://github.com/strangerlab7/YOUR-REPO-NAME)**
-  Designed, simulated, and configured an enterprise network using Cisco Packet Tracer, implementing IP addressing and routing[cite: 7].
+* **[Bankist](https://github.com/strangerlab7/bankist)**
+  This is a cool banking app built with javascript. It has just four users set in stone and you can transfer funds from each user to another, you can take a loan based on some certain conditions on your account too!
+  
+* **[Projectify](https://github.com/strangerlab7/Projectify)**
+  Projectify is a modern, responsive React project management application designed to help users create projects, manage project-specific tasks, and organize workflows efficiently.
+  This project was built from scratch to practice and solidify core React and JavaScript (ES6+) concepts, including state management, props drilling, conditional component rendering, and native browser DOM APIs.
+  
+* **[Time-freeze](https://github.com/strangerlab7/time-freeze)**
+ Time Freeze is a fast-paced, precision-based web game built with React. The concept is simple but highly addictive: choose a time challenge, start the clock, and try to stop it exactly when the timer hits zero. A millisecond too early or a split-second too late, and you lose!
+ This project was built to master advanced React concepts, specifically focusing on component synchronization, state batching, intervals, and imperative DOM manipulation using Refs.
+
+* **[Mouse-race](https://github.com/strangerlab7/mouse-race)**
+ I built a mouse-race game to imitate the famous pig-game. Users roll a dice and can choose to hold and pass the die or continue rolling to accumulate but if they roll a 1, they lose all their accumulated points and the die is passed automatically!
 
 ## 💼 Professional Experience & Leadership
 
-* **President | NACES, FUTA Chapter** *(Nov 2025 - Present)*
-  Overseeing the executive council, managing activity budgets, and coordinating technical workshops[cite: 8].
+* **President | NACES, FUTA Chapter** *(Nov 2025 - August 2026)*
+  Overseeing the executive council, managing activity budgets, and coordinating technical workshops.
 * **Engineering Intern | Project Imole Engineering Ltd** *(Sep 2025 - Oct 2025)*
-  Collected and analyzed performance data for solar power installations to ensure system efficiency[cite: 8].
+  Collected and analyzed performance data for solar power installations to ensure system efficiency.
 * **IT Support Trainee | FUTA CBT Center** *(May 2025 - Sep 2025)*
-  Monitored high-traffic network infrastructure during CBT examinations, providing rapid troubleshooting to ensure 99.9% uptime[cite: 8].
+  Monitored high-traffic network infrastructure during CBT examinations, providing rapid troubleshooting to ensure 99.9% uptime.
 
 ---
 
 ## 🏆 Certifications & Awards
 
-* **Hackathons & Competitions:** UNESCO Youth Hackathon 2025 Participant[cite: 1].
-* **Networking & IT:** Cisco IT Customer Support Basics[cite: 5], CCNA: Introduction to Networks[cite: 7], Cisco IT Essentials 8[cite: 7].
-* **Professional Development:** HP LIFE Certificates in Critical Thinking in the AI Era[cite: 2], Design Thinking[cite: 3], Effective Leadership[cite: 4], and Social Entrepreneurship[cite: 6].
+* **Hackathons & Competitions:** UNESCO Youth Hackathon 2025 Participant. WEMA Bank Hackaholics 6.0
+* **Networking & IT:** Cisco IT Customer Support Basics, CCNA: Introduction to Networks, Cisco IT Essentials 8.
+* **Professional Development:** HP LIFE Certificates in Critical Thinking in the AI Era, Design Thinking, Effective Leadership, and Social Entrepreneurship.
 
 <div align="center">
-  <!-- Replace these filenames with the actual names of your uploaded PNG/JPG files -->
   <img src="ccna-introduction-to-networks.png" alt="CCNA Verified" width="200" />
   <img src="it-essentials.png" alt="IT Essentials Verified" width="200" />
   <img src="unesco-certificate.png" alt="UNESCO Hackathon" width="400" />
